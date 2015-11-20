@@ -1,0 +1,5 @@
+/home/zac/Projects/FillHDD/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/zac/Projects/FillHDD/bin/Debug/FillHDD.exe.mdb
+/home/zac/Projects/FillHDD/bin/Debug/FillHDD.exe
+/home/zac/Projects/FillHDD/obj/x86/Debug/FillHDD.exe
+/home/zac/Projects/FillHDD/obj/x86/Debug/FillHDD.exe.mdb

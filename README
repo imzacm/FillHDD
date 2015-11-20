@@ -1,0 +1,4 @@
+FillHDD
+
+A simple console application that can create a file to a specific size or to the size necessary to fill up a drive.
+If you find any bugs, please email me at zac@zacmcchesney.com with a description of the steps leading up to the bug and what the bug does.
